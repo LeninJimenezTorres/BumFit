@@ -2,6 +2,17 @@ import React, {useState} from 'react'
 import { StyleSheet, Text, View } from 'react-native'
 import {Intro} from './src/Screens/Intro'
 import { Main } from './src/Screens/Main'
+import { Imc } from './src/Screens/Imc'
+import Idealweight from './src/Screens/Idealweight'
+import Workoutcalendly from './src/Screens/Workoutcalendly'
+import Diet from './src/Screens/Diet'
+import Statistics from './src/Screens/Statistics'
+import Documentation from './src/Screens/Documentation'
+
+import {NavigationContainer} from '@react-navigation/native';
+import {createNativeStackNavigator} from '@react-navigation/native-stack';
+
+const Stack = createNativeStackNavigator();
 
 const App = () => {
     const [introscreen, setIntroscreen] = useState(true)
@@ -11,14 +22,45 @@ const App = () => {
     }
 
     return (
-        <View style={styles.appcContainer}>
-            {
-                introscreen?
-                <Intro showIntro={showIntro}/>
-                :
-                <Main data={introscreen}/>
-            }
-        </View>
+        <NavigationContainer>
+                <Stack.Navigator>
+                    <Stack.Screen
+                        name="Intro"
+                        component= {Intro}
+                        options={{headerShown: false}}
+                    />
+                    <Stack.Screen
+                        name="Main"
+                        component= {Main}
+                        options={{headerShown: false}}
+                    />
+                    <Stack.Screen
+                        name="Imc"
+                        component= {Imc}
+                    />
+                    <Stack.Screen
+                        name="Idealweight"
+                        component= {Idealweight}
+                    />
+                    <Stack.Screen
+                        name="Workoutcalendly"
+                        component= {Workoutcalendly}
+                    />
+                    <Stack.Screen
+                        name="Diet"
+                        component= {Diet}
+                    />
+                    <Stack.Screen
+                        name="Statistics"
+                        component= {Statistics}
+                    />
+                    <Stack.Screen
+                        name="Documentation"
+                        component= {Documentation}
+                    />
+                </Stack.Navigator>
+            </NavigationContainer>
+            
     )
 }
 

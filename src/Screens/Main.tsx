@@ -1,14 +1,13 @@
 import React from 'react';
 import {FlatList, Image, ImageBackground, SafeAreaView, StyleSheet, Text, View} from 'react-native';
-import { FlatGrid } from 'react-native-super-grid';
-
+//import { FlatGrid } from 'react-native-super-grid';
 
 const imageBack = require('../Galery/base.jpg');
-const imageProgress = require('../Galery/progress.jpg');
 
-export const Main = ({data}: any) => {
+export const Main = ({navigation}:any) => {
   return (
     <SafeAreaView style={styles.mainContainer}>
+        
         <ImageBackground
             source={imageBack}
             resizeMode="cover"
@@ -22,33 +21,41 @@ export const Main = ({data}: any) => {
                     /> */}
                     <Text style={styles.textoLogo}>BumFit</Text>
                 </View>
-                <View style={styles.optionsContainer}>
+                <View style={styles.optionsContainer}
+                    
+                >
                     <FlatList
                         style={styles.sectionOptions}
                         data={[
                             {
                                 'category':'IMC',
                                 'image':require('../Galery/IMC2.jpg'),
+                                'screen':'Imc',
                             },
                             {
                                 'category':'Peso Ideal',
                                 'image':require('../Galery/pesoIdeal.jpg'),
+                                'screen':'Idealweight',
                             },
                             {
                                 'category':'Calendario de entrenamiento',
                                 'image':require('../Galery/workout4.jpg'),
+                                'screen':'Workoutcalendly',
                             },
                             {
                                 'category':'Dieta',
                                 'image':require('../Galery/diet2.webp'),
+                                'screen':'Diet',
                             },
                             {
                                 'category':'Estadísticas',
                                 'image':require('../Galery/statistics3.jpg'),
+                                'screen':'Statistics',
                             },
                             {
                                 'category':'Documentar progreso',
                                 'image':require('../Galery/progress.jpg'),
+                                'screen':'Documentation',
                             },
                         ]}
                         renderItem={({ item }) => (
@@ -57,13 +64,17 @@ export const Main = ({data}: any) => {
                             source={item.image}
                             resizeMode="cover"
                             >
-                                <Text style={styles.textoOption}>{item.category}</Text>
+                                <Text style={styles.textoOption} 
+                                onPress={()=>{navigation.navigate(item.screen)}}
+                                >
+                                    {item.category}
+                                </Text>
                             </ImageBackground>)
                         }
                         numColumns={2}
                         //keyExtractor={(item, index) => index}
                     />
-
+                    
                     {/* <FlatList
                         style={styles.sectionOptions}
                         data={[

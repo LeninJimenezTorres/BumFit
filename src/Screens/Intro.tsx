@@ -4,10 +4,10 @@ import { ImageBackground, StyleSheet, Text, View } from 'react-native'
 //const imageBack = require('../Galery/cbum12.jpeg');
 const imageBack = require('../Galery/cbum9.jpeg');
 
-export const Intro = ({showIntro}:any)=> {
-    console.log(showIntro);
+export const Intro = ({navigation}:any)=> { //{showIntro}:any
+    //console.log(showIntro);
     return (
-        <View style={styles.appcContainer} onTouchStart={()=>{showIntro(false)}}>
+        <View style={styles.appcContainer} onTouchStart={ ()=>{navigation.navigate('Main')} }>
             <ImageBackground  source={imageBack} resizeMode="cover" style={styles.imageIntro}>
               <Text style={styles.texto}>
                   BumFit

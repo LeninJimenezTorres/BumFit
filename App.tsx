@@ -16,7 +16,7 @@ const Stack = createNativeStackNavigator();
 
 const App = () => {
     const [introscreen, setIntroscreen] = useState(true)
-
+    const [info, setinfo] = useState([])
     const showIntro = (datohijo:any) =>{
         setIntroscreen(datohijo)
     }

@@ -28,7 +28,7 @@ export const Main = ({navigation}:any) => {
                         style={styles.sectionOptions}
                         data={[
                             {
-                                'category':'IMC',
+                                'category':'Índice de Masa Corporal',
                                 'image':require('../Galery/IMC2.jpg'),
                                 'screen':'Imc',
                             },

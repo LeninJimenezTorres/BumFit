@@ -1,9 +1,9 @@
 import React from 'react'
 import { ImageBackground, StyleSheet, Text, View } from 'react-native'
 
-const imageBack = require('../Galery/base2.jpg');
+//const imageBack = require('../Galery/base2.jpg');
 //const imageBack = require('../Galery/cbum12.jpeg');
-//const imageBack = require('../Galery/cbum9.jpeg');
+const imageBack = require('../Galery/cbum9.jpeg');
 
 export const Intro = ({navigation}:any)=> { //{showIntro}:any
     //console.log(showIntro);

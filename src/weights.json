@@ -1,996 +1,940 @@
 {
-    "150":{
+    "142":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[41.0,44.0],
+            "femenino":[41.0,44.0]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[43.0,48.0],
+            "femenino":[43.0,48.0]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[47.0,53.0],
+            "femenino":[47.0,53.0]
+        }
+    },
+    "143":{
+        "Pequeña":{
+            "masculino":[42.3,45.3],
+            "femenino":[42.3,45.3]
+        },
+        "Mediana":{
+            "masculino":[44.3,49.3],
+            "femenino":[44.3,49.3]
+        },
+        "Grande":{
+            "masculino":[48.3,55.3],
+            "femenino":[48.3,55.3]
+        }
+    },
+    "144":{
+        "Pequeña":{
+            "masculino":[42.0,45.0],
+            "femenino":[42.0,45.0]
+        },
+        "Mediana":{
+            "masculino":[44.0,49.0],
+            "femenino":[44.0,49.0]
+        },
+        "Grande":{
+            "masculino":[48.0,55.0],
+            "femenino":[48.0,55.0]
+        }
+    },
+    "145":{
+        "Pequeña":{
+            "masculino":[42.7,45.7],
+            "femenino":[42.3,45.3]
+        },
+        "Mediana":{
+            "masculino":[44.7,49.7],
+            "femenino":[44.3,49.3]
+        },
+        "Grande":{
+            "masculino":[48.7,55.7],
+            "femenino":[48.3,55.3]
+        }
+    },
+    "146":{
+        "Pequeña":{
+            "masculino":[42.9,45.9],
+            "femenino":[42.3,45.6]
+        },
+        "Mediana":{
+            "masculino":[44.9,49.9],
+            "femenino":[44.6,49.6]
+        },
+        "Grande":{
+            "masculino":[48.9,55.9],
+            "femenino":[48.6,55.6]
+        }
+    },
+    "147":{
+        "Pequeña":{
+            "masculino":[43.4,47.4],
+            "femenino":[43.0,47.0]
+        },
+        "Mediana":{
+            "masculino":[45.4,51.4],
+            "femenino":[45.0,51.0]
+        },
+        "Grande":{
+            "masculino":[49.4,56.4],
+            "femenino":[49.0,56.0]
+        }
+    },
+    "148":{
+        "Pequeña":{
+            "masculino":[43.7,47.7],
+            "femenino":[43.3,47.3]
+        },
+        "Mediana":{
+            "masculino":[45.7,51.7],
+            "femenino":[45.3,51.3]
+        },
+        "Grande":{
+            "masculino":[49.7,56.7],
+            "femenino":[49.3,56.3]
+        }
+    },
+    "149":{
+        "Pequeña":{
+            "masculino":[43.9,47.9],
+            "femenino":[43.6,47.6]
+        },
+        "Mediana":{
+            "masculino":[45.9,51.9],
+            "femenino":[45.6,51.6]
+        },
+        "Grande":{
+            "masculino":[49.9,56.9],
+            "femenino":[49.6,56.6]
+        }
+    },
+    "150":{
+        "Pequeña":{
+            "masculino":[45.0,50.2],
+            "femenino":[45.0,47.2]
+        },
+        "Mediana":{
+            "masculino":[48.4,55.4],
+            "femenino":[46.1,50.6]
+        },
+        "Grande":{
+            "masculino":[50.6,56.2],
+            "femenino":[47.2,52.9]
         }
     },
     "151":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[46.0,49.0],
+            "femenino":[45.6,47.85]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[48.0,54.0],
+            "femenino":[46.75,51.3]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[52.0,59.0],
+            "femenino":[47.85,53.6]
         }
     },
     "152":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[46.2,51.5],
+            "femenino":[46.2,48.5]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[49.7,56.9],
+            "femenino":[47.4,52.0]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[52.0,57.8],
+            "femenino":[48.5,54.3]
         }
     },
     "153":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[47.0,51.0],
+            "femenino":[46.8,49.15]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[49.0,55.0],
+            "femenino":[48,52.7]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[53.0,59.0],
+            "femenino":[49.15,55]
         }
     },
     "154":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[47.4,52.9],
+            "femenino":[47.4,49.8]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[51.0,58.4],
+            "femenino":[48.6,53.4]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[53.4,59.3],
+            "femenino":[49.8,55.7]
         }
     },
     "155":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[48.1,53.0],
+            "femenino":[48.05,50.45]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[51.0,57.0],
+            "femenino":[49.25,54.1]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[54.0,62.0],
+            "femenino":[50.45,54.95]
         }
     },
     "156":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[48.7,54.3],
+            "femenino":[48.7,51.1]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[52.3,59.9],
+            "femenino":[49.9,54.8]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[54.8,60.8],
+            "femenino":[51.1,57.2]
         }
     },
     "157":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[49.4,53.7],
+            "femenino":[49.3,51.75]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[52.4,58.7],
+            "femenino":[50.55,55.5]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[55.3,63.4],
+            "femenino":[51.75,57.95]
         }
     },
     "158":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[49.9,55.7],
+            "femenino":[49.9,52.4]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[53.7,61.5],
+            "femenino":[51.2,56.2]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[56.2,62.4],
+            "femenino":[52.4,58.7]
         }
     },
     "159":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[51.0,55.0],
+            "femenino":[50.55,53.1]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[54.0,61.0],
+            "femenino":[51.85,56.9]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[58.0,66.0],
+            "femenino":[53.1,59.45]
         }
     },
     "160":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[51.2,57.1],
+            "femenino":[51.2,53.8]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[55.0,63.0],
+            "femenino":[52.5,57.6]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[57.6,64.0],
+            "femenino":[53.8,60.2]
         }
     },
     "161":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[52.0,57.8],
+            "femenino":[52.0,54.4]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[55.7,64.0],
+            "femenino":[53.0,58.2]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[58.2,64.8],
+            "femenino":[54.3,61.0]
         }
     },
     "162":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[52.5,58.5],
+            "femenino":[52.5,55.1]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[56.4,64.6],
+            "femenino":[53.8,59.0]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[59.0,65.6],
+            "femenino":[55.1,61.7]
         }
     },
     "163":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[53.0,59.2],
+            "femenino":[53.0,55.8]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[57.0,65.2],
+            "femenino":[54.4,59.8]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[59.7,66.4],
+            "femenino":[55.9,62.4]
         }
     },
     "164":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[53.8,60.0],
+            "femenino":[53.8,56.5]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[57.8,66.2],
+            "femenino":[55.1,60.5]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[60.5,67.2],
+            "femenino":[56.5,63.2]
         }
     },
     "165":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[54.4,60.8],
+            "femenino":[54.4,57.2]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[58.4,67.0],
+            "femenino":[55.8,61.2]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[61.1,68.0],
+            "femenino":[57.0,64.0]
         }
     },
     "166":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[55.1,61.4],
+            "femenino":[55.1,57.9]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[59.2,67.8],
+            "femenino":[56.5,62.0]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[62.0,68.9],
+            "femenino":[57.9,64.8]
         }
     },
     "167":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[55.8,62.0],
+            "femenino":[55.8,58.8]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[59.9,68.5],
+            "femenino":[57.0,62.9]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[60.0,68.5],
+            "femenino":[57.0,62.9]
         }
     },
     "168":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[56.4,62.9],
+            "femenino":[56.4,59.3]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[60.7,69.5],
+            "femenino":[57.9,63.5]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[63.5,70.6],
+            "femenino":[59.3,66.3]
         }
     },
     "169":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[57.0,63.7],
+            "femenino":[57.0,59.9]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[61.0,70.2],
+            "femenino":[58.7,64.4]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[64.2,71.4],
+            "femenino":[60.0,67.0]
         }
     },
     "170":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[57.8,64.4],
+            "femenino":[57.8,60.7]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[62.1,71.2],
+            "femenino":[59.2,65.0]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[65.0,72.3],
+            "femenino":[60.7,67.9]
         }
     },
     "171":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[58.6,65.2],
+            "femenino":[58.6,61.6]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[62.9,71.9],
+            "femenino":[59.9,65.8]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[65.8,73.1],
+            "femenino":[61.4,68.5]
         }
     },
     "172":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[59.2,66.0],
+            "femenino":[59.2,62.1]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[63.6,72.8],
+            "femenino":[60.6,66.6]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[66.6,74.0],
+            "femenino":[62.1,69.5]
         }
     },
     "173":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[59.9,66.8],
+            "femenino":[59.9,62.8]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[64.2,73.6],
+            "femenino":[61.4,67.4]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[67.2,74.9],
+            "femenino":[62.9,70.3]
         }
     },
     "174":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[60.6,67.5],
+            "femenino":[60.6,63.6]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[65.1,74.5],
+            "femenino":[62.1,68.1]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[68.1,75.7],
+            "femenino":[63.6,71.1]
         }
     },
     "175":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[61.2,68.3],
+            "femenino":[61.2,64.4]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[65.8,75.5],
+            "femenino":[62.9,68.9]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[68.9,76.5],
+            "femenino":[64.4,71.9]
         }
     },
     "176":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[62.0,69.1],
+            "femenino":[62.0,65.0]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[66.6,76.3],
+            "femenino":[63.5,69.7]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[69.7,77.4],
+            "femenino":[65.0,72.8]
         }
     },
     "177":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[62.8,69.9],
+            "femenino":[62.8,65.8]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[67.4,77.1],
+            "femenino":[64.3,70.5]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[70.5,78.2],
+            "femenino":[65.8,73.6]
         }
     },
     "178":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[63.4,70.7],
+            "femenino":[63.4,66.5]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[68.1,78.0],
+            "femenino":[65.0,71.3]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[71.3,79.2],
+            "femenino":[66.5,74.5]
         }
     },
     "179":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[64.0,71.5],
+            "femenino":[64.0,67.3]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[68.9,78.9],
+            "femenino":[65.8,72.0]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[72.0,80.1],
+            "femenino":[67.3,75.2]
         }
     },
     "180":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[64.8,72.3],
+            "femenino":[64.8,68.0]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[69.7,79.8],
+            "femenino":[66.4,72.9]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[72.9,81.0],
+            "femenino":[68.0,76.1]
         }
     },
     "181":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[65.6,73.1],
+            "femenino":[65.6,68.8]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[70.5,80.7],
+            "femenino":[67.0,73.7]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[68.8,76.9],
+            "femenino":[68.8,76.9]
         }
     },
     "182":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[66.2,73.9],
+            "femenino":[66.2,69.6]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[71.2,81.6],
+            "femenino":[67.9,74.5]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[74.5,82.8],
+            "femenino":[69.6,77.8]
         }
     },
     "183":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[66.9,74.8],
+            "femenino":[66.9,70.5]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[72.0,82.5],
+            "femenino":[68.7,75.4]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[70.4,83.6],
+            "femenino":[70.5,78.7]
         }
     },
     "184":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[67.7,75.5],
+            "femenino":[67.7,71.1]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[72.8,83.4],
+            "femenino":[69.4,76.2]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[76.2,84.6],
+            "femenino":[71.1,79.6]
         }
     },
     "185":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[68.5,76.3],
+            "femenino":[68.5,71.9]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[73.6,84.3],
+            "femenino":[70.1,77.0]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[77.0,85.4],
+            "femenino":[71.9,80.4]
         }
     },
     "186":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[69.2,77.1],
+            "femenino":[69.2,72.7]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[74.4,85.2],
+            "femenino":[70.9,77.8]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[77.8,86.5],
+            "femenino":[72.7,81.3]
         }
     },
     "187":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[70.0,77.9],
+            "femenino":[70.0,73.5]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[75.2,86.1],
+            "femenino":[71.7,78.6]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[78.6,87.3],
+            "femenino":[73.5,82.1]
         }
     },
     "188":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[70.7,78.8],
+            "femenino":[70.7,74.2]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[76.0,87.0],
+            "femenino":[72.5,79.5]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[79.5,88.4],
+            "femenino":[74.2,83.1]
         }
     },
     "189":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[71.5,79.6],
+            "femenino":[71.5,75.0]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[76.8,87.8],
+            "femenino":[73.3,80.3]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[80.3,89.2],
+            "femenino":[75.0,84.0]
         }
     },
     "190":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[72.2,80.5],
+            "femenino":[72.2,75.8]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[77.6,88.9],
+            "femenino":[74.0,81.2]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[81.2,90.3],
+            "femenino":[75.8,84.8]
         }
     },
     "191":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[72.9,81.3],
+            "femenino":[72.9,76.6]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[78.8,89.7],
+            "femenino":[74.8,82.0]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[82.0,91.2],
+            "femenino":[76.6,85.6]
         }
     },
     "192":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[73.7,82.2],
+            "femenino":[73.7,77.4]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[79.3,90.8],
+            "femenino":[75.6,82.9]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[82.9,92.2],
+            "femenino":[77.4,86.6]
         }
     },
     "193":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[74.5,83.0],
+            "femenino":[74.5,78.6]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[80.1,91.6],
+            "femenino":[76.4,83.7]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[83.7,93.0],
+            "femenino":[78.2,87.4]
         }
     },
     "194":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[75.3,83.9],
+            "femenino":[75.3,79.0]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[80.9,92.7],
+            "femenino":[77.2,84.7]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[84.7,94.1],
+            "femenino":[79.0,88.4]
         }
     },
     "195":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[76.1,84.7],
+            "femenino":[76.1,79.8]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[81.8,93.5],
+            "femenino":[78.0,85.5]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[85.5,94.9],
+            "femenino":[79.8,89.2]
         }
     },
     "196":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[76.83,85.67],
+            "femenino":[76.83,80.67]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[82.59,94.58],
+            "femenino":[78.75,86.44]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[86.44,96.04],
+            "femenino":[80.67,90.28]
         }
     },
     "197":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[77.6,86.4],
+            "femenino":[77.6,81.4]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[83.4,95.4],
+            "femenino":[79.6,87.3]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[87.3,96.9],
+            "femenino":[81.5,91.2]
         }
     },
     "198":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[78.41,87.42],
+            "femenino":[78.41,82.33]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[84.29,96.52],
+            "femenino":[80.37,88.21]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[88.21,98.01],
+            "femenino":[82.33,92.13]
         }
     },
     "199":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[79.2,88.3],
+            "femenino":[79.2,83.1]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[85.1,97.5],
+            "femenino":[81.2,89.1]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[89.1,98.98],
+            "femenino":[93.2,92.99]
         }
     },
     "200":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[80,89.2],
+            "femenino":[80,84]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[86,98.48],
+            "femenino":[82,90]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[90,100],
+            "femenino":[84,94]
         }
     },
     "201":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[80.8,90.05],
+            "femenino":[80.8,84.85]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[86.8,99.3],
+            "femenino":[82.8,90.85]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[90.85,100.85],
+            "femenino":[84.85,94.85]
         }
     },
     "202":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[81.61,90.99],
+            "femenino":[81.61,85.69]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[87.73,100.46],
+            "femenino":[83.05,91.81]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[91.81,102.01],
+            "femenino":[85.69,95.89]
         }
     },
     "203":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[82.4,91.8],
+            "femenino":[82.4,86.5]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[88.5,101.3],
+            "femenino":[83.9,92.6]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[92.6,96.7],
+            "femenino":[86.5,96.7]
         }
     },
     "204":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[83.23,92.8],
+            "femenino":[83.23,87.39]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[89.47,102.46],
+            "femenino":[85.31,93.64]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[93.64,104.04],
+            "femenino":[87.39,97.8]
         }
     },
     "205":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[84.0,93.6],
+            "femenino":[84.0,88.2]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[90.3,103.3],
+            "femenino":[86.1,94.4]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[94.4,104.90],
+            "femenino":[88.2,98.6]
         }
     },
     "206":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[84.87,94.63],
+            "femenino":[84.87,89.12]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[91.24,104.48],
+            "femenino":[86.99,95.48]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[95.48,106.09],
+            "femenino":[89.12,99.72]
         }
     },
     "207":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[85.7,95.4],
+            "femenino":[85.7,90.0]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[92.1,105.2],
+            "femenino":[87.8,96.3]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[96.3,106.9],
+            "femenino":[89.99,100.5]
         }
     },
     "208":{
         "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[86.53,96.48],
+            "femenino":[86.53,90.85]
         },
         "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[93.02,106.52],
+            "femenino":[88.69,97.34]
         },
         "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        }
-    },
-    "209":{
-        "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        }
-    },
-    "210":{
-        "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        }
-    },
-    "211":{
-        "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        }
-    },
-    "212":{
-        "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        }
-    },
-    "213":{
-        "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        }
-    },
-    "214":{
-        "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        }
-    },
-    "215":{
-        "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        }
-    },
-    "216":{
-        "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        }
-    },
-    "217":{
-        "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        }
-    },
-    "218":{
-        "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        }
-    },
-    "219":{
-        "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        }
-    },
-    "220":{
-        "Pequeña":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Mediana":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
-        },
-        "Grande":{
-            "masculino":[45.5,47.2],
-            "femenino":[45.5,47.2]
+            "masculino":[97.34,108.16],
+            "femenino":[90.85,101.67]
         }
     }
 }
